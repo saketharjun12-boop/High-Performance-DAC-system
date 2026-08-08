@@ -1,3 +1,1 @@
-# Images
-
-Add PCB renders, layout images, hardware photos, and measurement plots here.
+Upload schematic stages, PCB progress screenshots, PCB renders, and final hardware photos here.
