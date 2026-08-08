@@ -763,13 +763,13 @@ High_Performance_DAC_Portfolio/
 ## Schematic Images and PCB progress
 
 
-![Total Circuit](Images/total_circuit.png)
+![Total Circuit](Schematics/total_circuit.png)
 
-![Stage 1](Images/Stage_1.png)
+![Stage 1](Schematics/Stage_1.png)
 
-![Stage 2](Images/Stage 2.png)
+![Stage 2](Schematics/Stage 2.png)
 
-![Stage 3](Images/Stage_3.png)
+![Stage 3](Schematics/Stage_3.png)
 
 
 
