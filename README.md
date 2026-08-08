@@ -760,30 +760,12 @@ High_Performance_DAC_Portfolio/
 `-- Gerbers/
 ```
 
-## Adding Images
+## Schematic Images and PCB progress
 
-Upload your own images to `Images/`.
 
-Suggested filenames:
-
-```text
-Images/
-    schematic_stage_1.png
-    schematic_stage_2.png
-    schematic_stage_3.png
-    power_section.png
-    analog_section.png
-    pcb_progress_1.png
-    pcb_progress_2.png
-    pcb_top.png
-    pcb_bottom.png
-    pcb_3d.png
-```
-
-Then reference them in this README using:
 
 ```markdown
-![Stage 1](Images/schematic_stage_1.png)
+![Stage 1](Images/Stage 1)
 ```
 
 ---
