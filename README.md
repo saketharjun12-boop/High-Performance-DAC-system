@@ -764,9 +764,9 @@ High_Performance_DAC_Portfolio/
 
 
 
-```markdown
+![Total Circuit](Images/Total Circuit)
 ![Stage 1](Images/Stage 1)
-```
+
 
 ---
 
