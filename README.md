@@ -764,27 +764,25 @@ High_Performance_DAC_Portfolio/
 
 
 ## Total Circuit
-![Total Circuit](Total%20Circuit.png)
+![Total Circuit](Schematics/Total%20Circuit.png)
 
 ## Stage 1
-![Stage 1](Stage%201.png)
+![Stage 1](Schematics/Stage%201.png)
 
 ## Stage 2
-![Stage 2](Stage%202.png)
+![Stage 2](Schematics/Stage%202.png)
 
 ## Stage 3
-![Stage 3](Stage%203.png)
+![Stage 3](Schematics/Stage%203.png)
 
 ## Stage 4
-![Stage 4](Stage%204.png)
+![Stage 4](Schematics/Stage%204.png)
 
 ## USB-C Interface
-![USB-C Interface](USB%20C%20interface.png)
+![USB-C Interface](Schematics/USB%20C%20interface.png)
 
 ## Boost Inverter and Boost Regulator
-![Boost Inverter and Boost Regulator](Boost%20inverter%20and%20Boost%20regulator.png)
-
-
+![Boost Inverter and Boost Regulator](Schematics/Boost%20inverter%20and%20Boost%20regulator.png)
 
 
 
