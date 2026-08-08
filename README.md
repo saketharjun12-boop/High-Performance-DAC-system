@@ -4,7 +4,7 @@
 
 A custom mixed-signal headphone DAC/amplifier designed around the **AK4191EQ digital modulator** and **AK4499EX DAC**, with a focus on low-noise analog power, current-to-voltage conversion, differential analog processing, and high-impedance headphone drive.
 
-> **Project status:** PCB routing is **not complete**. Routing is currently complete **through Stage 3 only**. Later analog/output and remaining power-routing sections are still in progress.
+> **Project status:** PCB routing is **not complete**. Routing is currently complete **through Stage 2 only**. Later analog/output and remaining power-routing sections are still in progress.
 
 ---
 
@@ -763,14 +763,26 @@ High_Performance_DAC_Portfolio/
 ## Schematic Images and PCB progress
 
 
-![Total Circuit](Schematics/total_circuit.png)
+## Total Circuit
+![Total Circuit](Total%20Circuit.png)
 
-![Stage 1](Schematics/Stage_1.png)
+## Stage 1
+![Stage 1](Stage%201.png)
 
-![Stage 2](Schematics/Stage 2.png)
+## Stage 2
+![Stage 2](Stage%202.png)
 
-![Stage 3](Schematics/Stage_3.png)
+## Stage 3
+![Stage 3](Stage%203.png)
 
+## Stage 4
+![Stage 4](Stage%204.png)
+
+## USB-C Interface
+![USB-C Interface](USB%20C%20interface.png)
+
+## Boost Inverter and Boost Regulator
+![Boost Inverter and Boost Regulator](Boost%20inverter%20and%20Boost%20regulator.png)
 
 
 
@@ -801,7 +813,7 @@ After fabrication:
 
 # Future Work
 
-- Complete PCB routing after Stage 3
+- Complete PCB routing after Stage 2
 - Recalculate power-trace voltage drop using actual routed lengths
 - Freeze exact capacitor and inductor manufacturer part numbers
 - Recalculate TPS610891 compensation using final effective capacitance and ESR
